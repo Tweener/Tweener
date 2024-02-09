@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+My name is Vivien, I’m 36-year-old, I'm French 🇫🇷 and living in the sunny south of France. I love cats 🐈, reading books 📚 and I do a lot of sports (🏓🤸🏋️).
+
+For the past 13 years, I’ve been working as a mobile app developer across companies of various sizes, from early-stage startups to multinationals. And it was around the time Covid-19 hit that the idea of solopreneurship popped in my mind.
+
+3 years later and a miserable last experience in a 9-5 job, I decided it was time to move on to a new chapter in my career. And here I am, November 2023, finally on my own, a full-time solopreneur, ready to fail and hopefully succeed as a solopreneur!
+
+---
+
+### 🔭 I’m currently working on
+
+As I started as an Android developer, it was only natural to take advantage of Kotlin language to write mobile apps with Kotlin Multiplatform and Compose Multiplaform. You'll find several public repositories on my profile showcasing this work. I warmly invite you to explore them and consider contributing. Your support and contributions would be greatly valued!
+
+---
+
+### 📫 How to reach me
+I invite you to explore my website ([vivienmahe.com](https://vivienmahe.com/)) to learn more about my work and the projects I'm currently working on. I recently started a newsletter on [Substack](https://vivienmahe.substack.com/).
+
+You can also follow me on X/Twitter ([@VivienMahe](https://twitter.com/VivienMahe)) for more daily content or to reach out.
+
 <!--
 **Tweener/Tweener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
