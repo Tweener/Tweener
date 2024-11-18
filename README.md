@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vivien, I’m 36-year-old, I'm French 🇫🇷 and living in the sunny south of France. I love cats 🐈, reading books 📚 and I do a lot of sports (🏓🤸🏋️).
+My name is Vivien, I’m 37-year-old, I'm French 🇫🇷 and living in the sunny south of France. I love cats 🐈, reading books 📚 and I do a lot of sports (🏓🤸🏋️).
 
 For the past 13 years, I’ve been working as a mobile app developer across companies of various sizes, from early-stage startups to multinationals. And it was around the time Covid-19 hit that the idea of solopreneurship popped in my mind.
 
@@ -15,9 +15,8 @@ As I started as an Android developer, it was only natural to take advantage of K
 ---
 
 ### 📫 How to reach me
-I invite you to explore my website ([vivienmahe.com](https://vivienmahe.com/)) to learn more about my work and the projects I'm currently working on. I recently started a newsletter on [Substack](https://vivienmahe.substack.com/).
-
-You can also follow me on X/Twitter ([@VivienMahe](https://twitter.com/VivienMahe)) for more daily content or to reach out.
+- 🌐 [vivienmahe.com](https://vivienmahe.com/) - I invite you to explore my website to learn more about my work and the projects I'm currently working on.
+- 𝕏 [@VivienMahe](https://twitter.com/VivienMahe) - You can also follow me on X/Twitter for more daily content or to reach out.
 
 <!--
 **Tweener/Tweener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
