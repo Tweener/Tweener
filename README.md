@@ -4,7 +4,7 @@ My name is Vivien, I’m 37-year-old, I'm French 🇫🇷 and living in the sunn
 
 For the past 13 years, I’ve been working as a mobile app developer across companies of various sizes, from early-stage startups to multinationals. And it was around the time Covid-19 hit that the idea of solopreneurship popped in my mind.
 
-3 years later and a miserable last experience in a 9-5 job, I decided it was time to move on to a new chapter in my career. And here I am, November 2023, finally on my own, a full-time solopreneur, ready to fail and hopefully succeed as a solopreneur!
+3 years later, I got tired of my 9-5 job, so I decided it was time to move on to a new chapter in my career. And here I am, November 2023, finally on my own, a full-time solopreneur, ready to fail and hopefully succeed!
 
 ---
 
