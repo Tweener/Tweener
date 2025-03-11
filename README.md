@@ -10,7 +10,11 @@ For the past 13 years, I’ve been working as a mobile app developer across comp
 
 ### 🔭 I’m currently working on
 
-As I started as an Android developer, it was only natural to take advantage of Kotlin language to write mobile apps with Kotlin Multiplatform and Compose Multiplaform. You'll find several public repositories on my profile showcasing this work. I warmly invite you to explore them and consider contributing. Your support and contributions would be greatly valued!
+As I started as an Android developer, it was only natural to take advantage of Kotlin language to write mobile apps with Kotlin Multiplatform and Compose Multiplaform.
+
+I'm currently working on [Bloomeo](https://bloomeo.app/), an all-in-one app for budgeting, savings tracking, and planning your path to early retirement, make with KMP/CMP and available on both Android & iOS.
+
+Also, you'll find several public repositories on my profile showcasing this work. I warmly invite you to explore them and consider contributing. Your support and contributions would be greatly valued!
 
 ---
 
