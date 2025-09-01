@@ -17,3 +17,7 @@ I'm Vivien Mahé, a senior mobile engineer based in the south of France with ove
 ### 📫 How to reach me
 - 🌐 [vivienmahe.com](https://vivienmahe.com/) - I invite you to explore my website to learn more about my work and the projects I'm currently working on.
 - 𝕏 [@VivienMahe](https://twitter.com/VivienMahe) - You can also follow me on X/Twitter for more daily content or to reach out.
+
+---
+
+![Vivien's GitHub stats](https://github-readme-stats.vercel.app/api?username=tweener&theme=dracula&show_icons=true&count_private=true)
